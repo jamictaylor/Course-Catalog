@@ -4,8 +4,9 @@
 //
 //  Created by Ted Cowan on 5/24/22.
 //
-
+  
 import Foundation
+
 
 // coursesDict is a global dictionary of all courses, populated by
 //    the loadCSCourses() function.

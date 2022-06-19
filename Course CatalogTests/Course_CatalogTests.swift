@@ -8,6 +8,7 @@
 import XCTest
 @testable import Course_Catalog
 
+
 class Course_CatalogTests: XCTestCase {
 
     override func setUpWithError() throws {

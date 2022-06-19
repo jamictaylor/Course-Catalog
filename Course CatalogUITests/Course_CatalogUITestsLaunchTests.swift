@@ -5,6 +5,7 @@
 //  Created by Jami Taylor on 5/30/22.
 //
 
+
 import XCTest
 
 class Course_CatalogUITestsLaunchTests: XCTestCase {

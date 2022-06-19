@@ -7,6 +7,7 @@
 
 import XCTest
 
+
 class Course_CatalogUITests: XCTestCase {
 
     override func setUpWithError() throws {
