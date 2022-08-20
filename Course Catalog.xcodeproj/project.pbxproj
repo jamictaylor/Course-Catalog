@@ -16,7 +16,6 @@
 		7E50436E28455CB0000C2702 /* Course_CatalogUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50436D28455CB0000C2702 /* Course_CatalogUITestsLaunchTests.swift */; };
 		7E50437D28455FAB000C2702 /* CSCourses.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7E50437C28455FAB000C2702 /* CSCourses.plist */; };
 		7E50438528467D98000C2702 /* loadCSCourses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50438428467D98000C2702 /* loadCSCourses.swift */; };
-		7E50438728467DF1000C2702 /* .git in Resources */ = {isa = PBXBuildFile; fileRef = 7E50438628467DF1000C2702 /* .git */; };
 		7E50438F28467F91000C2702 /* Course CatalogUITestsCS3260.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7E50438E28467F91000C2702 /* Course CatalogUITestsCS3260.swift */; };
 		7E9D664528B149B6002BB2F4 /* .github in Resources */ = {isa = PBXBuildFile; fileRef = 7E9D664428B149B6002BB2F4 /* .github */; };
 /* End PBXBuildFile section */
@@ -51,7 +50,6 @@
 		7E50436D28455CB0000C2702 /* Course_CatalogUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Course_CatalogUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		7E50437C28455FAB000C2702 /* CSCourses.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = CSCourses.plist; sourceTree = "<group>"; };
 		7E50438428467D98000C2702 /* loadCSCourses.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = loadCSCourses.swift; sourceTree = "<group>"; };
-		7E50438628467DF1000C2702 /* .git */ = {isa = PBXFileReference; lastKnownFileType = folder; name = .git; path = ../cs3260coursecalogexample/.git; sourceTree = "<group>"; };
 		7E50438E28467F91000C2702 /* Course CatalogUITestsCS3260.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Course CatalogUITestsCS3260.swift"; sourceTree = "<group>"; };
 		7E9D664428B149B6002BB2F4 /* .github */ = {isa = PBXFileReference; lastKnownFileType = folder; path = .github; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -85,7 +83,6 @@
 			isa = PBXGroup;
 			children = (
 				7E9D664428B149B6002BB2F4 /* .github */,
-				7E50438628467DF1000C2702 /* .git */,
 				7E50434F28455CAE000C2702 /* Course Catalog */,
 				7E50436028455CB0000C2702 /* Course CatalogTests */,
 				7E50436A28455CB0000C2702 /* Course CatalogUITests */,
@@ -248,7 +245,6 @@
 			files = (
 				7E50437D28455FAB000C2702 /* CSCourses.plist in Resources */,
 				7E50435828455CB0000C2702 /* Preview Assets.xcassets in Resources */,
-				7E50438728467DF1000C2702 /* .git in Resources */,
 				7E50435528455CB0000C2702 /* Assets.xcassets in Resources */,
 				7E9D664528B149B6002BB2F4 /* .github in Resources */,
 			);
